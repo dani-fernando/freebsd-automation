@@ -1,0 +1,19 @@
+name: Fix Line Endings
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  fix-line-endings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Normalize line endings
+        run: |
+          git config core.autocrlf input
+          git add --renormalize .
+          git diff --exit-code || (git commit -am "Normalize line endings" && git push)
