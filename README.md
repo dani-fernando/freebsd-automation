@@ -1,8 +1,7 @@
-# 🌟 **FreeBSD Script**  
+![Banner](https://i.pinimg.com/736x/9d/20/6c/9d206ccb62bd79c1424329378b9ca94f.jpg)
+
+
 ### *FreeBSD Automation with Script*
-
-![Banner](https://danifernando.com/_astro/profile.Mp-oRlUS_bj6hH.webp)
-
 ---
 
 ## 🚀 **What is FreeBSD Script?**
@@ -24,8 +23,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dani-fernando/script-de-freebsd.git
-   cd script=de=freebsd
+   git clone https://github.com/dani-fernando/freebsd-script.git
+   cd freebsd-script
    ```
 
 2. Make the script executable:
