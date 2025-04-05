@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/736x/9d/20/6c/9d206ccb62bd79c1424329378b9ca94f.jpg)
+![Thumbnail](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV5bG00dzJpdTN1YjQ3bWI3cWtjbTlpendwdGs5YTVkYThma3Q2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif)
 
 
 ### *FreeBSD Automation with Script*
