@@ -23,7 +23,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dani-fernando/freebsd-script.git
+   git clone https://github.com/dani-fernando/freebsd-automation.git
    cd freebsd-script
    ```
 
